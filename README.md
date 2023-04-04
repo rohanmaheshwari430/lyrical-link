@@ -1,4 +1,4 @@
-# lyrical-link
+# Lyrical Link
 
 
 Do you like songs about the beach? Or maybe songs about love? Do you wish you could find more songs about your favoite topics?
